@@ -15,8 +15,6 @@ STEP 4:Apply Feature Transformation for the feature in the data set.
 STEP 5:Save the data to the file.
 
 # FEATURE ENCODING:
-Develope By:Jude Clement Jose G
-Register Number:213334230109
 1. Ordinal Encoding
 An ordinal encoding involves mapping each unique label to an integer value. This type of encoding is really only appropriate if there is a known relationship between the categories. This relationship does exist for some of the variables in our dataset, and ideally, this should be harnessed when preparing the data.
 2. Label Encoding
@@ -39,8 +37,8 @@ We use this categorical data encoding technique when the features are nominal(do
 # CODING AND OUTPUT:
 
 ```
-DEeveloped by: Priyanka.K
-Register No: 212223230162
+Develope By:Jude Clement Jose G
+Register Number:213334230109
 ```
 ```
 import pandas as pd
